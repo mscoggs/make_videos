@@ -1,2 +1,2 @@
 # make_videos
-Turning pdfs into a video
+Turning a collection of pdfs into a video.
